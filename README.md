@@ -1,7 +1,7 @@
 Utilize Project: 
   
   1. To utilize this package import the dependencys through pip included in the requirements.txt
-  2. Create an Oxylab free account with username and password.
+  2. Create an Oxylab pay as you go account.
   3. Insert your Oxylab account name and password to test2.py
   4. run priceSearchController.py and go to your local http through a browser app
 
