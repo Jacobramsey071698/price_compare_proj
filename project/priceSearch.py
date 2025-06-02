@@ -10,7 +10,7 @@ class Product:
     def __init__(self,prod):
         
         self.prod=prod
-        self.api_key='AIzaSyAjJyBlttl002ewPY27ZVTXoRaNYu1VR6o'
+        self.api_key=''
         self.keyword_ebay=f"https://www.ebay.com/sch/i.html?_nkw={prod}&LH_Complete=1&LH_Sold=1&_pgn=1"
         self.keyword_amazon=f"https://www.amazon.com/s?k={prod}&page=1"
         self.keyword_etsy=f"https://www.etsy.com/search?q={prod}&ref=search_bar"
